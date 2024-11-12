@@ -1,0 +1,17 @@
+{
+    "name": "snyk-demo",
+    "version": "1.0.0",
+    "description": "A demo project to test Snyk Open Source scanning",
+    "main": "index.js",
+    "dependencies": {
+      "lodash": "4.17.4",
+      "express": "3.0.0"
+    },
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
